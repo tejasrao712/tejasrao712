@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hello Coders 👋
 ### 🌱 I’m currently learning Web Devolopment, 
-### 👯 I’m looking to collaborate with Industry Giants in the way of Internships
+### 👯 I’m looking to collaborate with Industry Giants in the means of Internships
 ### 🤔 I’m looking for help with Competitive Programming
-### 📫 How to reach me: Linkedin: https://www.linkedin.com/in/tejas-rao-2287bb174/ IG : 
+### 📫 How to reach me: Linkedin: https://www.linkedin.com/in/tejas-rao-2287bb174/
+### That is all about me
 
 
 <!--
